@@ -31,6 +31,9 @@
     .image_content .left_text_panel {
         width: 250px;
     }
+    .image_content .right_image_panel {
+        float: left;
+    }
 
 
     /*-------------------------------------------------------------------*/
